@@ -1,7 +1,7 @@
 //Ejercicio 1: Solicitar al usuario que responda a la pregunta (“¿Eres bellisimo/a?”), en caso de contestar sí, responder “Ciertamente”, en caso de contestar no, responder: “No te creo”.
 
 let respuestabelleza = prompt ("¿Eres bellisimo/a?")
-if (respuestabelleza.toLowerCase () === "si" || respuestabelleza.toLowerCase==="sí" {
+if (respuestabelleza.toLowerCase () === "si" || respuestabelleza.toLowerCase==="sí" ) {
     alert("Ciertamente tienes razón");
 } else {
     alert ("No te creo, debes trabajar tu amor propio");
@@ -99,6 +99,4 @@ if (notacalif < 1 || notacalif > 10) {
 //El topping de brownie cuesta 20 MXN.
 //En caso de no disponer del topping solicitado por el usuario, el programa le indicará “no tenemos este topping, lo sentimos.” y a continuación le informará el precio del helado sin ningún topping.
 
-
-//10. Un conocido portal de educación en tecnología está ofreciendo programas para aprender a desarrollar aplicaciones. Escribe un programa que le indique a la persona interesada cuánto deberá pagar mensualmente de acuerdo a la opción elegida.
-
+}
